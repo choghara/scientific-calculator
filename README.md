@@ -1,2 +1,2 @@
-# Acientific-calculator-
+# Scientific-calculator-
 Scientific Calculator with themes
